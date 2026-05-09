@@ -1,0 +1,59 @@
+<svg width="100%" viewBox="0 0 690 410" role="img" xmlns="http://www.w3.org/2000/svg" style="">
+  <title style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">NEXORA Logo</title>
+  <desc style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Modern futuristic logo for NEXORA brand</desc>
+  <defs>
+    <linearGradient id="nxGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1D9E75"/>
+      <stop offset="100%" style="stop-color:#0F6E56"/>
+    </linearGradient>
+    <linearGradient id="glowGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#5DCAA5;stop-opacity:0"/>
+      <stop offset="50%" style="stop-color:#5DCAA5;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#5DCAA5;stop-opacity:0"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#9FE1CB"/>
+      <stop offset="50%" style="stop-color:#ffffff"/>
+      <stop offset="100%" style="stop-color:#9FE1CB"/>
+    </linearGradient>
+  <mask id="imagine-text-gaps-nyz14r" maskUnits="userSpaceOnUse"><rect x="0" y="0" width="690" height="410" fill="white"/><rect x="317.671875" y="72" width="44.65625" height="66" fill="black" rx="2"/><rect x="113.25" y="159" width="453.5" height="105" fill="black" rx="2"/><rect x="212.2109375" y="279" width="255.578125" height="18" fill="black" rx="2"/></mask></defs>
+
+  <!-- Dark background -->
+  <rect width="680" height="400" fill="#04342C" rx="16" style="fill:rgb(4, 52, 44);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Subtle grid lines -->
+  <line x1="0" y1="133" x2="680" y2="133" stroke="#0F6E56" stroke-width="0.4" opacity="0.4" mask="url(#imagine-text-gaps-nyz14r)" style="fill:rgb(0, 0, 0);stroke:rgb(15, 110, 86);color:rgb(255, 255, 255);stroke-width:0.4px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.4;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <line x1="0" y1="266" x2="680" y2="266" stroke="#0F6E56" stroke-width="0.4" opacity="0.4" style="fill:rgb(0, 0, 0);stroke:rgb(15, 110, 86);color:rgb(255, 255, 255);stroke-width:0.4px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.4;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <line x1="170" y1="0" x2="170" y2="400" stroke="#0F6E56" stroke-width="0.4" opacity="0.4" mask="url(#imagine-text-gaps-nyz14r)" style="fill:rgb(0, 0, 0);stroke:rgb(15, 110, 86);color:rgb(255, 255, 255);stroke-width:0.4px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.4;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <line x1="340" y1="0" x2="340" y2="400" stroke="#0F6E56" stroke-width="0.4" opacity="0.4" mask="url(#imagine-text-gaps-nyz14r)" style="fill:rgb(0, 0, 0);stroke:rgb(15, 110, 86);color:rgb(255, 255, 255);stroke-width:0.4px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.4;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <line x1="510" y1="0" x2="510" y2="400" stroke="#0F6E56" stroke-width="0.4" opacity="0.4" mask="url(#imagine-text-gaps-nyz14r)" style="fill:rgb(0, 0, 0);stroke:rgb(15, 110, 86);color:rgb(255, 255, 255);stroke-width:0.4px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.4;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Hexagon icon -->
+  <polygon points="340,60 380,82 380,126 340,148 300,126 300,82" fill="none" stroke="#1D9E75" stroke-width="1.5" style="fill:none;stroke:rgb(29, 158, 117);color:rgb(255, 255, 255);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <polygon points="340,72 368,88 368,120 340,136 312,120 312,88" fill="url(#nxGrad)" opacity="0.8" style="stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.8;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- N letter inside hexagon -->
+  <text x="340" y="122" font-family="Arial Black, sans-serif" font-size="44" font-weight="900" fill="white" text-anchor="middle" opacity="0.95" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.95;font-family:&quot;Arial Black&quot;, sans-serif;font-size:44px;font-weight:900;text-anchor:middle;dominant-baseline:auto">N</text>
+
+  <!-- Horizontal glow line -->
+  <rect x="140" y="168" width="400" height="1.5" fill="url(#glowGrad)" opacity="0.7" style="stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.7;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- NEXORA main text -->
+  <text x="340" y="240" font-family="Arial Black, Impact, sans-serif" font-size="72" font-weight="900" fill="url(#textGrad)" text-anchor="middle" letter-spacing="18" style="stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Arial Black&quot;, Impact, sans-serif;font-size:72px;font-weight:900;text-anchor:middle;dominant-baseline:auto">NEXORA</text>
+
+  <!-- Bottom glow line -->
+  <rect x="140" y="258" width="400" height="1" fill="url(#glowGrad)" opacity="0.4" style="stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.4;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Tagline -->
+  <text x="340" y="292" font-family="Arial, sans-serif" font-size="12" fill="#5DCAA5" text-anchor="middle" letter-spacing="8" opacity="0.85" style="fill:rgb(93, 202, 165);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.85;font-family:Arial, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:auto">BEYOND TOMORROW</text>
+
+  <!-- Corner accents -->
+  <polyline points="60,40 40,40 40,60" fill="none" stroke="#1D9E75" stroke-width="1.5" style="fill:none;stroke:rgb(29, 158, 117);color:rgb(255, 255, 255);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <polyline points="620,40 640,40 640,60" fill="none" stroke="#1D9E75" stroke-width="1.5" style="fill:none;stroke:rgb(29, 158, 117);color:rgb(255, 255, 255);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <polyline points="60,360 40,360 40,340" fill="none" stroke="#1D9E75" stroke-width="1.5" style="fill:none;stroke:rgb(29, 158, 117);color:rgb(255, 255, 255);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <polyline points="620,360 640,360 640,340" fill="none" stroke="#1D9E75" stroke-width="1.5" style="fill:none;stroke:rgb(29, 158, 117);color:rgb(255, 255, 255);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Small dot accents beside tagline -->
+  <circle cx="190" cy="289" r="2" fill="#1D9E75" opacity="0.7" style="fill:rgb(29, 158, 117);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.7;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <circle cx="490" cy="289" r="2" fill="#1D9E75" opacity="0.7" style="fill:rgb(29, 158, 117);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.7;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+</svg>

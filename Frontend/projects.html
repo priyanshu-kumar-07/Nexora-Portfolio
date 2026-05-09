@@ -1,0 +1,187 @@
+<!-- projects.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <meta charset="UTF-8">
+  <meta name="viewport"
+  content="width=device-width, initial-scale=1.0">
+
+  <title>Projects | Priyanshu Kumar</title>
+
+  <link rel="stylesheet" href="./HOME.css">
+
+  <!-- Font Awesome -->
+  <link rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+</head>
+
+<body>
+  <!-- Navbar -->
+  <nav id="navbar">
+    <div class="container">
+      <div class="logo">
+        <img src="./nexora_logo.svg"alt="Logo">
+        NEXORA</div>
+
+      <ul class="nav-links" id="nav-links">
+        <li><a href="./HOME.html" class="nav-item active">Home</a></li>
+        <li><a href="about.html" class="nav-item">About</a></li>
+        <li><a href="./skills.html" class="nav-item">Skills</a></li>
+        <li><a href="./projects.html" class="nav-item">Projects</a></li>
+        <li><a href="./contact.html" class="nav-item">Contact</a></li>
+      </ul>
+
+      <div class="hamburger" id="hamburger">
+        <i class="fa-solid fa-bars"></i>
+      </div>
+    </div>
+  </nav>
+
+
+  <!-- PROJECTS -->
+
+  <section id="projects" class="projects">
+
+    <h2>Projects</h2>
+
+    <div class="projects-grid">
+
+      <!-- Project 1 -->
+
+      <div class="project-card">
+
+        <img src="./Photo/Tic Tac Toe.png"
+        alt="Tic Tac Toe">
+
+        <h3>01. Tic Tac Toe Game</h3>
+
+        <p>
+          A classic two-player Tic Tac Toe game
+          with interactive UI and score tracking.
+        </p>
+
+        <ul>
+          <li>Two-player & vs Computer mode</li>
+          <li>Real-time score tracking</li>
+          <li>Winning cells highlight</li>
+          <li>Theme toggle & reset option</li>
+        </ul>
+
+        <div class="project-links">
+
+          <a href="#"
+          class="project-btn">
+          Live Demo
+          </a>
+
+          <a href="#"
+          class="project-btn github-btn">
+          GitHub
+          </a>
+
+        </div>
+
+      </div>
+
+
+      <!-- Project 2 -->
+
+      <div class="project-card">
+
+        <img src="./Photo/Weather app.png"
+        alt="Weather App">
+
+        <h3>02. Global Weather App</h3>
+
+        <p>
+          Responsive weather app with real-time
+          API integration and live updates.
+        </p>
+
+        <ul>
+          <li>Search weather by city</li>
+          <li>Current location support</li>
+          <li>Responsive modern UI</li>
+          <li>Live API weather data</li>
+        </ul>
+
+        <div class="project-links">
+
+          <a href="#"
+          class="project-btn">
+          Live Demo
+          </a>
+
+          <a href="#"
+          class="project-btn github-btn">
+          GitHub
+          </a>
+
+        </div>
+
+      </div>
+
+
+      <!-- Project 3 -->
+
+      <div class="project-card">
+
+        <img src="./Photo/Stopwatch.png"
+        alt="Stopwatch">
+
+        <h3>03. Stopwatch Application</h3>
+
+        <p>
+          Stopwatch application with lap timing
+          and millisecond precision support.
+        </p>
+
+        <ul>
+          <li>Start, Stop & Reset controls</li>
+          <li>Lap recording functionality</li>
+          <li>Modern responsive design</li>
+          <li>Accurate time precision</li>
+        </ul>
+
+        <div class="project-links">
+
+          <a href="#"
+          class="project-btn">
+          Live Demo
+          </a>
+
+          <a href="#"
+          class="project-btn github-btn">
+          GitHub
+          </a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </section>
+
+
+  <script>
+
+    const hamburger =
+    document.getElementById("hamburger");
+
+    const navLinks =
+    document.getElementById("nav-links");
+
+    hamburger.addEventListener("click",()=>{
+
+      navLinks.classList.toggle("show");
+
+    });
+
+  </script>
+
+</body>
+</html>
